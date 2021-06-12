@@ -4,11 +4,18 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlhazanM?label=Follow%20me%20on%20Twitter&style=social)  ![GitHub followers](https://img.shields.io/github/followers/poly4concept?label=Follow%20my%20work%20on%20Github&style=social)
 
-A React frontend web developer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
+A  frontend web developer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
 
 I'm currently learning to be a full stack web developer.
 
 ---
+Toolbox 
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt='HTML logo' width='50' height='50'/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt='CSS logo' width='50' height='50'/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt='Bootstrap logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt='javascript logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt='React logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Git logo' width='50' height='50'/>
 <!--
 **poly4concept/poly4concept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
