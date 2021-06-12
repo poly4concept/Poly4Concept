@@ -23,9 +23,11 @@ I'm currently learning to be a full stack web developer.
 ---
 Find me in the &#x1f30e; universe:
 
-![Twitter ](https://twitter.com/alhazanm)  
-![Linkedin](https://www.linkedin.com/in/alhazan-olajuwon/)
-![Codepen](https://codepen.io/AlhazanMubarak)
+[Twitter](https://twitter.com/alhazanm)
+
+[Linkedin](https://www.linkedin.com/in/alhazan-olajuwon/)
+
+[Codepen](https://codepen.io/AlhazanMubarak)
 <!--
 **poly4concept/poly4concept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
