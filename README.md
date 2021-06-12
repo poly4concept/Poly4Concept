@@ -1,9 +1,14 @@
 ### Hi there 👋, I'm Alhazan Mubarak!
 
-...
+---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlhazanM?label=Follow%20me%20on%20Twitter&style=social)  ![GitHub followers](https://img.shields.io/github/followers/poly4concept?label=Follow%20my%20work%20on%20Github&style=social)
 
+A React frontend web developer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
+
+I'm currently learning to be a full stack web developer.
+
+---
 <!--
 **poly4concept/poly4concept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
