@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Alhazan Mubarak!
+
+...
+
+![Twitter Follow](https://img.shields.io/twitter/follow/AlhazanM?label=Follow%20me%20on%20Twitter&style=social)  ![GitHub followers](https://img.shields.io/github/followers/poly4concept?label=Follow%20my%20work%20on%20Github&style=social)
 
 <!--
 **poly4concept/poly4concept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
