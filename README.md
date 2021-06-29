@@ -21,7 +21,7 @@ I'm currently learning to be a full stack web developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poly4concept&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
-Find me in the &#x1f30e; universe:
+Find me in the &#x1f30e; universe;
 
 [Twitter](https://twitter.com/alhazanm)
 
