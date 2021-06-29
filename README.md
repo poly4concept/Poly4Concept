@@ -17,7 +17,7 @@ I'm currently learning to be a full stack web developer.
 ---
 ## &#x1f4c8; My Github Stats
 
-[![Mubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=poly4concept&hide=issues&show_icons==true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Alhazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=poly4concept&hide=issues&show_icons==true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poly4concept&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
