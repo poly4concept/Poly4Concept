@@ -14,6 +14,7 @@ I'm currently learning to be a full stack web developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt='javascript logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt='React logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Git logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt='Redux logo' width='50' height='50'/>
 ---
 ## &#x1f4c8; My Github Stats
 
