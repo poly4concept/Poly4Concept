@@ -4,7 +4,7 @@
 
 A  frontend web developer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
 
-I'm currently learning to be a full stack web developer.
+I'm currently learning to be a DevOps Engineer.
 
 ---
 &#129520; Toolbox  
