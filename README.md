@@ -10,11 +10,12 @@ I'm currently learning to be a DevOps Engineer.
 &#129520; Toolbox  
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt='HTML logo' width='50' height='50'/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt='CSS logo' width='50' height='50'/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt='Bootstrap logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt='Tailwind logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt='javascript logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt='React logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Git logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt='Redux logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt='AWS logo' width='50' height='50'/>
 ---
 ## &#x1f4c8; My Github Stats
 
