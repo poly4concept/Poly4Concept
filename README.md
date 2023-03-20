@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Alhazan Mubarak!
+### Hi there 👋, I'm Mubarak Alhazan!
 
 ---
 
-A  frontend web developer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
+A  frontend engineer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
 
 I'm currently learning to be a DevOps Engineer.
 
@@ -13,6 +13,7 @@ I'm currently learning to be a DevOps Engineer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt='Tailwind logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt='javascript logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt='React logo' width='50' height='50'/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt='TypeScript logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt='Git logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt='Redux logo' width='50' height='50'/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt='AWS logo' width='50' height='50'/>
