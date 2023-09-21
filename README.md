@@ -2,9 +2,7 @@
 
 ---
 
-A  frontend engineer with over 2 years of experience building frontend applications. I'm  passionate about making attractive and easy-to-use websites.
-
-I'm currently learning to be a DevOps Engineer.
+I'm a Front-end Engineer with over 2 years of experience building scalable and efficient user interfaces that have had a positive impact on business
 
 ---
 &#129520; Toolbox  
