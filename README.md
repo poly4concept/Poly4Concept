@@ -34,3 +34,4 @@ Find me in the &#x1f30e; universe;
 
 [Portfolio](https://poly4concept.github.io/my-portfolio/)
 
+- or simply run `$ npx poly4`
