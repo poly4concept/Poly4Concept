@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Front-end Engineer with over 2 years of experience building scalable and efficient user interfaces that have had a positive impact on business
+I'm a Front-end Engineer with 3 years of experience building scalable and efficient user interfaces that have had a positive impact on business
 
 ---
 &#129520; Toolbox  
