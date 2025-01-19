@@ -32,7 +32,7 @@ I’m open to connecting with like-minded professionals and exploring new DevOps
 
 Find me in the &#x1f30e; universe;
 
-[Twitter](https://twitter.com/alhazanm)
+[Twitter](https://twitter.com/poly4concept)
 
 [Linkedin](https://www.linkedin.com/in/alhazan-mubarak/)
 
